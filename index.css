@@ -1,0 +1,52 @@
+body {
+    background-color: #E9C46A; 
+    background-image: url("./Forest2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-style: oblique;
+    color: #264653;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    font-style: oblique;
+    color: #2A9D8F;
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-style: oblique;
+    color: #2A9D8F;
+}
+h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-style: italic;
+    color: #E76F51;
+    text-shadow: 1px 1px #E9C46A;
+}
+#header {
+   text-align: right;
+}
+#main {
+    text-align: center;
+    margin: 85px;
+    border: 20px;
+}
+#footer {
+    text-align: center;
+    margin: 20px;
+    border: 20px;
+}
+.headerlinks {
+    display: inline-block;
+    padding: 20px;
+    /* width: 50px; */
+    align-content: end;
+    text-align: right;
+}
