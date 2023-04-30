@@ -1,9 +1,12 @@
 body {
     background-color: #E9C46A; 
-    background-image: url("./Forest2.jpg");
+    background-image: url("./background4.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+a {
+    text-decoration: none;
 }
 h1{
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -36,7 +39,6 @@ h4 {
 #main {
     text-align: center;
     margin: 85px;
-    border: 20px;
 }
 #footer {
     text-align: center;
