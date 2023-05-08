@@ -34,7 +34,8 @@ h4 {
     text-shadow: 1px 1px #E9C46A;
 }
 #header {
-   text-align: right;
+   display: flex;
+   justify-content: flex-end;
 }
 #main {
     text-align: center;
